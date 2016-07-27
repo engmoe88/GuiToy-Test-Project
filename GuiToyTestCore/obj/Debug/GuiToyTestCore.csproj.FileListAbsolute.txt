@@ -1,0 +1,48 @@
+E:\C# Automation\DAY4\Objective4\GuiToy\GuiToy\GuiToyTestCore\bin\Debug\GuiToyTestCore.dll
+E:\C# Automation\DAY4\Objective4\GuiToy\GuiToy\GuiToyTestCore\bin\Debug\GuiToyTestCore.pdb
+E:\C# Automation\DAY4\Objective4\GuiToy\GuiToy\GuiToyTestCore\bin\Debug\Castle.Core.dll
+E:\C# Automation\DAY4\Objective4\GuiToy\GuiToy\GuiToyTestCore\bin\Debug\GuiToy.exe
+E:\C# Automation\DAY4\Objective4\GuiToy\GuiToy\GuiToyTestCore\bin\Debug\TestStack.White.dll
+E:\C# Automation\DAY4\Objective4\GuiToy\GuiToy\GuiToyTestCore\bin\Debug\GuiToy.pdb
+E:\C# Automation\DAY4\Objective4\GuiToy\GuiToy\GuiToyTestCore\bin\Debug\Castle.Core.xml
+E:\C# Automation\DAY4\Objective4\GuiToy\GuiToy\GuiToyTestCore\bin\Debug\TestStack.White.pdb
+E:\C# Automation\DAY4\Objective4\GuiToy\GuiToy\GuiToyTestCore\bin\Debug\TestStack.White.xml
+E:\C# Automation\DAY4\Objective4\GuiToy\GuiToy\GuiToyTestCore\obj\Debug\GuiToyTestCore.csprojResolveAssemblyReference.cache
+E:\C# Automation\DAY4\Objective4\GuiToy\GuiToy\GuiToyTestCore\obj\Debug\GuiToyTestCore.dll
+E:\C# Automation\DAY4\Objective4\GuiToy\GuiToy\GuiToyTestCore\obj\Debug\GuiToyTestCore.pdb
+C:\Users\Mohammed\Desktop\C# Automation\DAY5\GuiToy\GuiToyTestCore\bin\Debug\GuiToyTestCore.dll
+C:\Users\Mohammed\Desktop\C# Automation\DAY5\GuiToy\GuiToyTestCore\bin\Debug\GuiToyTestCore.pdb
+C:\Users\Mohammed\Desktop\C# Automation\DAY5\GuiToy\GuiToyTestCore\bin\Debug\Castle.Core.dll
+C:\Users\Mohammed\Desktop\C# Automation\DAY5\GuiToy\GuiToyTestCore\bin\Debug\GuiToy.exe
+C:\Users\Mohammed\Desktop\C# Automation\DAY5\GuiToy\GuiToyTestCore\bin\Debug\TestStack.White.dll
+C:\Users\Mohammed\Desktop\C# Automation\DAY5\GuiToy\GuiToyTestCore\bin\Debug\GuiToy.pdb
+C:\Users\Mohammed\Desktop\C# Automation\DAY5\GuiToy\GuiToyTestCore\bin\Debug\Castle.Core.xml
+C:\Users\Mohammed\Desktop\C# Automation\DAY5\GuiToy\GuiToyTestCore\bin\Debug\TestStack.White.pdb
+C:\Users\Mohammed\Desktop\C# Automation\DAY5\GuiToy\GuiToyTestCore\bin\Debug\TestStack.White.xml
+C:\Users\Mohammed\Desktop\C# Automation\DAY5\GuiToy\GuiToyTestCore\obj\Debug\GuiToyTestCore.csprojResolveAssemblyReference.cache
+C:\Users\Mohammed\Desktop\C# Automation\DAY5\GuiToy\GuiToyTestCore\obj\Debug\GuiToyTestCore.dll
+C:\Users\Mohammed\Desktop\C# Automation\DAY5\GuiToy\GuiToyTestCore\obj\Debug\GuiToyTestCore.pdb
+C:\Users\Mohammed\Desktop\C#Automation\DAY5\GuiToy\GuiToyTestCore\bin\Debug\GuiToyTestCore.dll
+C:\Users\Mohammed\Desktop\C#Automation\DAY5\GuiToy\GuiToyTestCore\bin\Debug\GuiToyTestCore.pdb
+C:\Users\Mohammed\Desktop\C#Automation\DAY5\GuiToy\GuiToyTestCore\bin\Debug\Castle.Core.dll
+C:\Users\Mohammed\Desktop\C#Automation\DAY5\GuiToy\GuiToyTestCore\bin\Debug\GuiToy.exe
+C:\Users\Mohammed\Desktop\C#Automation\DAY5\GuiToy\GuiToyTestCore\bin\Debug\TestStack.White.dll
+C:\Users\Mohammed\Desktop\C#Automation\DAY5\GuiToy\GuiToyTestCore\bin\Debug\GuiToy.pdb
+C:\Users\Mohammed\Desktop\C#Automation\DAY5\GuiToy\GuiToyTestCore\bin\Debug\Castle.Core.xml
+C:\Users\Mohammed\Desktop\C#Automation\DAY5\GuiToy\GuiToyTestCore\bin\Debug\TestStack.White.pdb
+C:\Users\Mohammed\Desktop\C#Automation\DAY5\GuiToy\GuiToyTestCore\bin\Debug\TestStack.White.xml
+C:\Users\Mohammed\Desktop\C#Automation\DAY5\GuiToy\GuiToyTestCore\obj\Debug\GuiToyTestCore.csprojResolveAssemblyReference.cache
+C:\Users\Mohammed\Desktop\C#Automation\DAY5\GuiToy\GuiToyTestCore\obj\Debug\GuiToyTestCore.dll
+C:\Users\Mohammed\Desktop\C#Automation\DAY5\GuiToy\GuiToyTestCore\obj\Debug\GuiToyTestCore.pdb
+C:\Users\Mohammed\Desktop\GuiToy\GuiToyTestCore\bin\Debug\GuiToyTestCore.dll
+C:\Users\Mohammed\Desktop\GuiToy\GuiToyTestCore\bin\Debug\GuiToyTestCore.pdb
+C:\Users\Mohammed\Desktop\GuiToy\GuiToyTestCore\bin\Debug\Castle.Core.dll
+C:\Users\Mohammed\Desktop\GuiToy\GuiToyTestCore\bin\Debug\GuiToy.exe
+C:\Users\Mohammed\Desktop\GuiToy\GuiToyTestCore\bin\Debug\TestStack.White.dll
+C:\Users\Mohammed\Desktop\GuiToy\GuiToyTestCore\bin\Debug\Castle.Core.xml
+C:\Users\Mohammed\Desktop\GuiToy\GuiToyTestCore\bin\Debug\TestStack.White.pdb
+C:\Users\Mohammed\Desktop\GuiToy\GuiToyTestCore\bin\Debug\TestStack.White.xml
+C:\Users\Mohammed\Desktop\GuiToy\GuiToyTestCore\obj\Debug\GuiToyTestCore.csprojResolveAssemblyReference.cache
+C:\Users\Mohammed\Desktop\GuiToy\GuiToyTestCore\obj\Debug\GuiToyTestCore.dll
+C:\Users\Mohammed\Desktop\GuiToy\GuiToyTestCore\obj\Debug\GuiToyTestCore.pdb
+C:\Users\Mohammed\Desktop\GuiToy\GuiToyTestCore\bin\Debug\GuiToy.pdb
