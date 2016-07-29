@@ -46,3 +46,15 @@ C:\Users\Mohammed\Desktop\GuiToy\GuiToyTestCore\obj\Debug\GuiToyTestCore.csprojR
 C:\Users\Mohammed\Desktop\GuiToy\GuiToyTestCore\obj\Debug\GuiToyTestCore.dll
 C:\Users\Mohammed\Desktop\GuiToy\GuiToyTestCore\obj\Debug\GuiToyTestCore.pdb
 C:\Users\Mohammed\Desktop\GuiToy\GuiToyTestCore\bin\Debug\GuiToy.pdb
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTestCore\bin\Debug\GuiToyTestCore.dll
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTestCore\bin\Debug\GuiToyTestCore.pdb
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTestCore\bin\Debug\Castle.Core.dll
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTestCore\bin\Debug\GuiToy.exe
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTestCore\bin\Debug\TestStack.White.dll
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTestCore\bin\Debug\GuiToy.pdb
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTestCore\bin\Debug\Castle.Core.xml
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTestCore\bin\Debug\TestStack.White.pdb
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTestCore\bin\Debug\TestStack.White.xml
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTestCore\obj\Debug\GuiToyTestCore.dll
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTestCore\obj\Debug\GuiToyTestCore.pdb
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTestCore\obj\Debug\GuiToyTestCore.csprojResolveAssemblyReference.cache

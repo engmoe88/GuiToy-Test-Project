@@ -56,3 +56,17 @@ C:\Users\Mohammed\Desktop\GuiToy\GuiToyTests\bin\Debug\Castle.Core.xml
 C:\Users\Mohammed\Desktop\GuiToy\GuiToyTests\obj\Debug\GuiToyTests.csprojResolveAssemblyReference.cache
 C:\Users\Mohammed\Desktop\GuiToy\GuiToyTests\obj\Debug\GuiToyTests.dll
 C:\Users\Mohammed\Desktop\GuiToy\GuiToyTests\obj\Debug\GuiToyTests.pdb
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTests\bin\Debug\GuiToyTests.dll
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTests\bin\Debug\GuiToyTests.pdb
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTests\bin\Debug\GuiToyTestCore.dll
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTests\bin\Debug\nunit.framework.dll
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTests\bin\Debug\TestStack.White.dll
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTests\bin\Debug\Castle.Core.dll
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTests\bin\Debug\GuiToyTestCore.pdb
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTests\bin\Debug\nunit.framework.xml
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTests\bin\Debug\TestStack.White.pdb
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTests\bin\Debug\TestStack.White.xml
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTests\bin\Debug\Castle.Core.xml
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTests\obj\Debug\GuiToyTests.csprojResolveAssemblyReference.cache
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTests\obj\Debug\GuiToyTests.dll
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToyTests\obj\Debug\GuiToyTests.pdb

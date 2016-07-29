@@ -31,3 +31,10 @@ C:\Users\Mohammed\Desktop\GuiToy\GuiToy\bin\Debug\GuiToy.pdb
 C:\Users\Mohammed\Desktop\GuiToy\GuiToy\obj\x86\Debug\GuiToy.GuiToyForm.resources
 C:\Users\Mohammed\Desktop\GuiToy\GuiToy\obj\x86\Debug\GuiToy.Properties.Resources.resources
 C:\Users\Mohammed\Desktop\GuiToy\GuiToy\obj\x86\Debug\GuiToy.csproj.GenerateResource.Cache
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToy\obj\x86\Debug\GuiToy.exe
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToy\obj\x86\Debug\GuiToy.pdb
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToy\bin\Debug\GuiToy.exe
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToy\obj\x86\Debug\GuiToy.GuiToyForm.resources
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToy\obj\x86\Debug\GuiToy.Properties.Resources.resources
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToy\obj\x86\Debug\GuiToy.csproj.GenerateResource.Cache
+C:\Users\Mohammed\Desktop\GuiToy-Test-Project\GuiToy\bin\Debug\GuiToy.pdb
